@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/68/trunk/hudson-feature
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/trunk/hudson-feature/.project
+END
+feature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/68/trunk/hudson-feature/feature.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/hudson-feature/build.properties
+END

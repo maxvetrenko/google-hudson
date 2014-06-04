@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/67/trunk/hudson-eclipse
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/hudson-eclipse/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/hudson-eclipse/plugin.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/hudson-eclipse/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/hudson-eclipse/.project
+END

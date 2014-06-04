@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/69/trunk/hudson-update
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8/trunk/hudson-update/.project
+END
+content.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/69/trunk/hudson-update/content.jar
+END
+dk.contix.eclipse.hudson_1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/hudson-update/dk.contix.eclipse.hudson_1.0.0.jar
+END
+artifacts.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/68/trunk/hudson-update/artifacts.jar
+END
+dk.contix.eclipse.hudson_1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/hudson-update/dk.contix.eclipse.hudson_1.0.1.jar
+END
+site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/64/trunk/hudson-update/site.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56/trunk/hudson-eclipse/src/dk/contix/eclipse/hudson/views
+END
+ConfigErrorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/hudson-eclipse/src/dk/contix/eclipse/hudson/views/ConfigErrorPage.java
+END
+ParameterizedBuildDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/56/trunk/hudson-eclipse/src/dk/contix/eclipse/hudson/views/ParameterizedBuildDialog.java
+END
+HudsonBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/26/trunk/hudson-eclipse/src/dk/contix/eclipse/hudson/views/HudsonBrowser.java
+END
+JobLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/56/trunk/hudson-eclipse/src/dk/contix/eclipse/hudson/views/JobLabelProvider.java
+END
+NameFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/18/trunk/hudson-eclipse/src/dk/contix/eclipse/hudson/views/NameFilter.java
+END
+JobSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/56/trunk/hudson-eclipse/src/dk/contix/eclipse/hudson/views/JobSorter.java
+END
+HudsonView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/56/trunk/hudson-eclipse/src/dk/contix/eclipse/hudson/views/HudsonView.java
+END
